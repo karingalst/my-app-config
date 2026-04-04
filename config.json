@@ -1,6 +1,7 @@
 {
   "Start": true,
-  "EmailAddress": "karingalst@gmail.com",
+  "EmailAddressFrom": "karingalst@gmail.com",
+  "EmailAddressTo": "karingalst@gmail.com",
   "EmailApplication": "fufo qyiw ufhd vjwn",
   "SMTPPort": 587
 }
