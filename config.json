@@ -2,6 +2,7 @@
   "Start": true,
   "EmailAddressFrom": "karingalst@gmail.com",
   "EmailAddressTo": "karingalst@gmail.com",
-  "EmailApplication": "fufo qyiw ufhd vjwn",
+  "EmailApplication": "smtp.gmail.com",
+  "EmailApplicationKey": "fufo qyiw ufhd vjwn",
   "SMTPPort": 587
 }
