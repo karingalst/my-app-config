@@ -1,5 +1,5 @@
 {
-  "Start": "false",
+  "Start": false,
   "EmailAddressFrom": "karingalst@gmail.com",
   "EmailAddressTo": "karingalst@gmail.com",
   "EmailApplication": "smtp.gmail.com",
